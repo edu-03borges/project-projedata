@@ -2,7 +2,7 @@
 
 **OBS**: Eu entendo da necessidade de realizar apenas os procedimentos que foram pedidos nesse contexto/teste, mas me vejo na obrigação de realizar algo mais para poder me destacar dos demais candidatos e por esse motivo eu resolvi implementar um banco de dados integrado no software de teste. Mas mesmo assim eu segui a risca todos os passos pedidos pelo teste de integração. Não tenho a obrigação de agradar ninguém, mas sim conquistar uma vaga nesta empresa. Obrigado desde já.
 
-Eu peço desculpa a desorganização de código dentro do arquivo Main.java, isso normalmente não costuma a acontecer e isso vocês podem olhar os meus outros repositorios.
+Eu peço desculpa pela desorganização de código dentro do arquivo Main.java, isso normalmente não costuma a acontecer e isso vocês podem olhar os meus outros repositorios.
 Devido a imprevistos eu tive que fazer o projeto em horários ruins e sem tempo para fazer teve que improvisar e este é o principal motivo da bagunça no código.
 
 ## Índice
