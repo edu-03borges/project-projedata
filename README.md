@@ -38,13 +38,15 @@ O banco de dados deverá ter o nome de *sistema_de_funcionarios*
 
 A tabela FUNCIONÁRIOS deverá se chamar *funcionarios* e deverá ser criada com as definições do exemplo abaixo.
 
+```
 create table funcionarios (
     id int primary key auto_increment,
-	  name varchar(50) not null,
+    name varchar(50) not null,
     birth_date DATE not null,
-	  wage varchar(255) not null,
+    wage varchar(255) not null,
     employee_position varchar(50) not null
 );
+```
 
 ## 4. Visualização
 
